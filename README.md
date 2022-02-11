@@ -62,65 +62,72 @@ We match <b>Flutter</b> and our design skills 🧑‍💻 to deliver a quality a
 <table style="background-color:#F5F5DC">
 <tr>
 <td>
+
+ 
+ 
+<!---
+NEGOCIA
+--->
 <img src="https://github.com/gabeee28/gabeee28/blob/main/negocia%2B.png" width="180"/>
 <p align="center"> 
 <b> E-Commerce</b>
 </p>
 <p align="center">
-<a href = "https://github.com/harshalrj25"><img src = "https://img.shields.io/badge/Twitter-282054?style=flat&logo=twitter&logoColor=white"/></a>
-<a href = "https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/harshal-jadhav-298ba416a/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
-</p>
+<a href = "https://apps.apple.com/us/app/negocia-compra-y-vende/id1590362731"><img src = "https://github.com/gabeee28/gabeee28/blob/main/appstore.png" width="40" height = "40"/></a>
+
 </td>
+ 
+ 
+ 
+<!---
+VIABOBY
+--->  
   
-  
+<td>
+<img src="https://github.com/gabeee28/gabeee28/blob/main/viaboby.png" width="180"/>
+<p align="center"> 
+<b> Pets</b>
+</p>
+<p align="center">
+<a href = "https://apps.apple.com/pe/app/viaboby-b%C3%BAsqueda-de-mascotas/id1561662336?fbclid=IwAR0V31s2RjOVqwroqbgCdW4H06yVDLUCyv5hY-6ZauhVpJS6Mo5mhtcs5G0"><img src = "https://github.com/gabeee28/gabeee28/blob/main/appstore.png" width="40" height = "40"/></a> 
+<a href = "https://play.google.com/store/apps/details?id=com.paulonia.findmyboby"><img src = "https://github.com/gabeee28/gabeee28/blob/main/googleplay.png" width="40" height="40"/></a>
+<a href = "https://www.facebook.com/viabobyApp/"><img src = "https://github.com/gabeee28/gabeee28/blob/main/fb.png" width="40" height="40"/></a>
+<!---<a href = ""><img src = "https://github.com/gabeee28/gabeee28/blob/main/github.png" width="40" height="40"/></a>---> 
+</p>
+</td> 
+ 
+ 
+
+<!---
+FITMIND
+---> 
 <td>
 <img src="https://github.com/gabeee28/gabeee28/blob/main/fit.png" width="180"/>
 <p align="center"> 
-<b> E-Commerce</b>
+<b> Fitness</b>
 </p>
 <p align="center">
-<a href = "https://github.com/harshalrj25"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
-<a href = "https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/harshal-jadhav-298ba416a/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
+<a href = "https://apps.apple.com/us/app/fitmind-live-coaching-program/id1585726488"><img src = "https://github.com/gabeee28/gabeee28/blob/main/appstore.png" width="40" height = "40"/></a>
 </p>
 </td>
-  
-  
-  
- <td>
+
+ 
+ 
+<!---
+SHAKA
+--->  
+<td>
 <img src="https://github.com/gabeee28/gabeee28/blob/main/shaka_poke.png" width="180"/>
 <p align="center"> 
 <b> E-Commerce</b>
 </p>
 <p align="center">
-<a href = "https://github.com/harshalrj25"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
-<a href = "https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/harshal-jadhav-298ba416a/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
+<a href = "https://apps.apple.com/pe/app/shaka/id1573115285a"><img src = "https://github.com/gabeee28/gabeee28/blob/main/appstore.png" width="40" height = "40"/></a>
+<a href = "https://play.google.com/store/apps/details?id=dev.paulonia.shaka"><img src = "https://github.com/gabeee28/gabeee28/blob/main/googleplay.png" width="40" height="40"/></a>
+<a href = "https://www.facebook.com/ShakaPokePeru"><img src = "https://github.com/gabeee28/gabeee28/blob/main/fb.png" width="40" height="40"/></a>
 </p>
 </td> 
-  
-  
-  
-<td>
-<img src="https://github.com/gabeee28/gabeee28/blob/main/viaboby.png" width="180"/>
-<p align="center"> 
-<b> E-Commerce</b>
-</p>
-<p align="center">
-<a href = "https://github.com/harshalrj25"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
-<a href = "https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/harshal-jadhav-298ba416a/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
-</p>
-</td>
-  
-
- 
-  
 </tr> 
-
-
-
 </table>
 
 [PAULONIA]: https://paulonia.dev/
