@@ -130,6 +130,16 @@ SHAKA
 </tr> 
 </table>
 
+
+
+## 🎥 CHECK OUR LAST VIDEOS  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque.
+
+
+<img src = "https://github.com/gabeee28/gabeee28/blob/main/foot.png">
+
+
+
 [PAULONIA]: https://paulonia.dev/
 
 <!---
