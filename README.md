@@ -1,24 +1,17 @@
 [<img src = "https://github.com/gabeee28/gabeee28/blob/main/Cover.png">][Paulonia]
 
-<!---![I am GitHub Readme Generator's creator](https://github.com/gabeee28/gabeee28/blob/main/Cover.png) [Paulonia] 
---->
 <p align="center">
-<br>
-<a href="https://www.linkedin.com/company/paulonia/"><img src="https://img.shields.io/badge/linkedin-5E47C7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.facebook.com/pauloniadev"><img src="https://img.shields.io/badge/facebook-5E47C7.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://https://www.behance.net/pauloniastudio?tracking_source=search_projects_recommended%7Cpaulonia"><img src="https://img.shields.io/badge/-Behance-5E47C7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCC10g3-k6KyHwEPUdSd3mbQ"><img src="https://img.shields.io/badge/YouTube-5E47C7?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
-<a href="https://apps.apple.com/pe/developer/paulonia/id1561662338"><img src="https://img.shields.io/badge/App_Store-5E47C7?style=for-the-badge&logo=app-store&logoColor=white" /></a>&nbsp;
-<a href="https://play.google.com/store/apps/dev?id=4688063457703243175"><img src="https://img.shields.io/badge/Google_Play-5E47C7?style=for-the-badge&logo=google-play&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/company/paulonia/"><img src="https://img.shields.io/badge/linkedin-282054.svg?&style=flat&logo=linkedin" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.facebook.com/pauloniadev"><img src="https://img.shields.io/badge/Facebook-282054?style=flat&logo=facebook&logoColor=white" /></a>&nbsp;
+<a href="https://https://www.behance.net/pauloniastudio?tracking_source=search_projects_recommended%7Cpaulonia"><img src="https://img.shields.io/badge/-Behance-282054?style=flat&logo=behance" alt="Behance" /></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCC10g3-k6KyHwEPUdSd3mbQ"><img src="https://img.shields.io/badge/YouTube-282054?style=flat&logo=youtube" /></a>&nbsp;
+ <a href="https://twitter.com/pauloniadev"><img src="https://img.shields.io/badge/Twitter-282054?style=flat&logo=twitter&logoColor=white" /></a>&nbsp;
+<a href="https://apps.apple.com/pe/developer/paulonia/id1561662338"><img src="https://img.shields.io/badge/App_Store-282054?style=flat&logo=app-store&logoColor=white" /></a>&nbsp;
+<a href="https://play.google.com/store/apps/dev?id=4688063457703243175"><img src="https://img.shields.io/badge/Google_Play-282054?style=flat&logo=google-play&logoColor=white" /></a>&nbsp;
 
 
 
-
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
-
-## HI WE ARE [PAULONIA]   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> HI WE ARE [PAULONIA] 
 We match <b>Flutter</b> and our design skills 🧑‍💻 to deliver a quality app in no time 🚀.
 
 <b> Our development service on Flutter includes:</b>
@@ -29,12 +22,106 @@ We match <b>Flutter</b> and our design skills 🧑‍💻 to deliver a quality a
 - 🚀 <b> App Store Management: </b> We configure necessary resources so that your app is available in the AppStore and PlayStore.
 - 🛠 <b> Maintenance and support: </b> Facing any reported problem, we will provide you with advice and we will solve them.
 
-## OPEN SOURCE CONTRIBUTIONS 🌱
+  
+  
+## 🛠 LANGUAGES, FRAMEWORKS, TOOLS & OTHERS 
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/Dartr-282054?style=flat&logo=dart&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Flutter-282054?style=flat&logo=flutter&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Python-282054?style=flat&logo=python&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Dart-282054?style=flat&logo=dart&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/C%2B%2B-282054?style=flat&logo=C%2B%2B&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/GitHub-282054?style=flat&logo=GitHub&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Visual Studio Code-282054?style=flat&logo=Visual%20Studio%20Code&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Photoshop-282054?style=flat&logo=adobe-photoshop&logoColor=white" /></a>&nbsp;
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/Figma-282054?style=flat&logo=figma&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Keras-282054?style=flat&logo=keras&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/NumPy-282054?style=flat&logo=numpy&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Material Design-282054?style=flat&logo=material-design&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Pandas-282054?style=flat&logo=pandas&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/TensorFlow-282054?style=flat&logo=TensorFlow&logoColor=white" /></a>&nbsp;  
+<a href=""><img src="https://img.shields.io/badge/Google Cloud-282054?style=flat&logo=google%20cloud&logoColor=white" /></a>&nbsp; 
+<a href=""><img src="https://img.shields.io/badge/Django-282054?style=flat&logo=django&logoColor=white" /></a>&nbsp; 
 
 
 
 
+## 💗 WE LOVE OPEN-SOURCE  
+<b> Take a look at some of our Open-Source projects :</b>
+- 🔍 Looking to Contribute on Open Source Projects related to Software Development.
+- 👨‍💻 Open Source Projects [Paulonia Cache Image](https://github.com/PauloniaAQP/paulonia_cache_image) repository.
+- 🐾 Would love to Collaborating on other Open Source Projects.
+- ⭐️ If you like my Open Source Projects 
 
+  
+  
+  
+ ## 💡 OUR [WORK](https://paulonia.dev/portafolio)
+  
+<table style="background-color:#F5F5DC">
+<tr>
+<td>
+<img src="https://github.com/gabeee28/gabeee28/blob/main/negocia%2B.png" width="180"/>
+<p align="center"> 
+<b> E-Commerce</b>
+</p>
+<p align="center">
+<a href = "https://github.com/harshalrj25"><img src = "https://img.shields.io/badge/Twitter-282054?style=flat&logo=twitter&logoColor=white"/></a>
+<a href = "https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/harshal-jadhav-298ba416a/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
+</p>
+</td>
+  
+  
+<td>
+<img src="https://github.com/gabeee28/gabeee28/blob/main/fit.png" width="180"/>
+<p align="center"> 
+<b> E-Commerce</b>
+</p>
+<p align="center">
+<a href = "https://github.com/harshalrj25"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
+<a href = "https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/harshal-jadhav-298ba416a/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
+</p>
+</td>
+  
+  
+  
+ <td>
+<img src="https://github.com/gabeee28/gabeee28/blob/main/shaka_poke.png" width="180"/>
+<p align="center"> 
+<b> E-Commerce</b>
+</p>
+<p align="center">
+<a href = "https://github.com/harshalrj25"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
+<a href = "https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/harshal-jadhav-298ba416a/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
+</p>
+</td> 
+  
+  
+  
+<td>
+<img src="https://github.com/gabeee28/gabeee28/blob/main/viaboby.png" width="180"/>
+<p align="center"> 
+<b> E-Commerce</b>
+</p>
+<p align="center">
+<a href = "https://github.com/harshalrj25"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
+<a href = "https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/harshal-jadhav-298ba416a/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
+</p>
+</td>
+  
+
+ 
+  
+</tr> 
+
+
+
+</table>
 
 [PAULONIA]: https://paulonia.dev/
 
