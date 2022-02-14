@@ -24,12 +24,12 @@ We match <b>Flutter</b> and our design skills 🧑‍💻 to deliver a quality a
  
  
  <b> Other services:</b>
-- 💻 <b> Applications development: </b> We create multiplatform applications with the best practices, to guarantee the success of your business.
-- ☁️ <b> Cloud computing: </b> Everything related to databases, authentication, data storage, and more, are implemented in the cloud to guarantee the scalability and performance of your app.
-- 👽 <b> Artificial intelligence: </b> Make your application add value with a smart algorithm and make a difference in the market.
-- 🧐<b> Security and Scalability: </b> We cultivate the trust of your users with stable, secure and scalable applications that adapt to future changes in your business.
-- 🚀 <b> App Store Management: </b> We configure necessary resources so that your app is available in the AppStore and PlayStore.
-- 🛠 <b> Maintenance and support: </b> Facing any reported problem, we will provide you with advice and we will solve them.
+- ⚡ <b>  Custom apps: </b> Design of user-centric and attractive interfaces for different platforms (mobile, tablet, web, desktop).
+- 🤗 <b> Improve experience: </b> Contribution of visual improvements or user experience within your app.
+- 🧩 <b> Design systems: </b> Kit of components, variants, resources and all the specifications of your app.
+- 🔸 <b> User flow and prototyping: </b> Interactive flow useful for validations, developers and those interested in interacting with your app.
+- 🛒 <b> Store Resources: </b> We design and provide resources for the App Store and Play Store.
+- 📍 <b> App Store Optimizationt: </b> We optimize the content of your app in the App Store and Play Store to improve its search and navigation.
  
  
 
