@@ -21,41 +21,18 @@ We match <b>Flutter</b> and our design skills 🧑‍💻 to deliver a quality a
 - 🧐<b> Security and Scalability: </b> We cultivate the trust of your users with stable, secure and scalable applications that adapt to future changes in your business.
 - 🚀 <b> App Store Management: </b> We configure necessary resources so that your app is available in the AppStore and PlayStore.
 - 🛠 <b> Maintenance and support: </b> Facing any reported problem, we will provide you with advice and we will solve them.
+ 
+ 
+ <b> Other services:</b>
+- 💻 <b> Applications development: </b> We create multiplatform applications with the best practices, to guarantee the success of your business.
+- ☁️ <b> Cloud computing: </b> Everything related to databases, authentication, data storage, and more, are implemented in the cloud to guarantee the scalability and performance of your app.
+- 👽 <b> Artificial intelligence: </b> Make your application add value with a smart algorithm and make a difference in the market.
+- 🧐<b> Security and Scalability: </b> We cultivate the trust of your users with stable, secure and scalable applications that adapt to future changes in your business.
+- 🚀 <b> App Store Management: </b> We configure necessary resources so that your app is available in the AppStore and PlayStore.
+- 🛠 <b> Maintenance and support: </b> Facing any reported problem, we will provide you with advice and we will solve them.
+ 
+ 
 
-  
-  
-## 🛠 LANGUAGES, FRAMEWORKS, TOOLS & OTHERS 
-<p align="center">
-<a href=""><img src="https://img.shields.io/badge/Dartr-282054?style=flat&logo=dart&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Flutter-282054?style=flat&logo=flutter&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Python-282054?style=flat&logo=python&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Dart-282054?style=flat&logo=dart&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/C%2B%2B-282054?style=flat&logo=C%2B%2B&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/GitHub-282054?style=flat&logo=GitHub&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Visual Studio Code-282054?style=flat&logo=Visual%20Studio%20Code&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Photoshop-282054?style=flat&logo=adobe-photoshop&logoColor=white" /></a>&nbsp;
-<p align="center">
-<a href=""><img src="https://img.shields.io/badge/Figma-282054?style=flat&logo=figma&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Keras-282054?style=flat&logo=keras&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/NumPy-282054?style=flat&logo=numpy&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Material Design-282054?style=flat&logo=material-design&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Pandas-282054?style=flat&logo=pandas&logoColor=white" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/TensorFlow-282054?style=flat&logo=TensorFlow&logoColor=white" /></a>&nbsp;  
-<a href=""><img src="https://img.shields.io/badge/Google Cloud-282054?style=flat&logo=google%20cloud&logoColor=white" /></a>&nbsp; 
-<a href=""><img src="https://img.shields.io/badge/Django-282054?style=flat&logo=django&logoColor=white" /></a>&nbsp; 
-
-
-
-
-## 💗 WE LOVE OPEN-SOURCE  
-<b> Take a look at some of our Open-Source projects :</b>
-- 🔍 Looking to Contribute on Open Source Projects related to Software Development.
-- 👨‍💻 Open Source Projects [Paulonia Cache Image](https://github.com/PauloniaAQP/paulonia_cache_image) repository.
-- 🐾 Would love to Collaborating on other Open Source Projects.
-- ⭐️ If you like my Open Source Projects 
-
-  
-  
   
  ## 💡 OUR [WORK](https://paulonia.dev/portafolio)
   
@@ -132,8 +109,41 @@ SHAKA
 
 
 
-## 🎥 CHECK OUR LAST VIDEOS  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque.
+## 💗 WE LOVE OPEN-SOURCE  
+<b> Take a look at some of our Open-Source projects :</b>
+- 🔍 Looking to Contribute on Open Source Projects related to Software Development.
+- 👨‍💻 Open Source Projects [Paulonia Cache Image](https://github.com/PauloniaAQP/paulonia_cache_image) repository.
+- 🐾 Would love to Collaborating on other Open Source Projects.
+- ⭐️ If you like my Open Source Projects 
+
+
+
+## 🛠 LANGUAGES, FRAMEWORKS, TOOLS & OTHERS 
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/Dartr-282054?style=flat&logo=dart&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Flutter-282054?style=flat&logo=flutter&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Python-282054?style=flat&logo=python&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Dart-282054?style=flat&logo=dart&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/C%2B%2B-282054?style=flat&logo=C%2B%2B&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/GitHub-282054?style=flat&logo=GitHub&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Visual Studio Code-282054?style=flat&logo=Visual%20Studio%20Code&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Photoshop-282054?style=flat&logo=adobe-photoshop&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Figma-282054?style=flat&logo=figma&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Keras-282054?style=flat&logo=keras&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/NumPy-282054?style=flat&logo=numpy&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Material Design-282054?style=flat&logo=material-design&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Pandas-282054?style=flat&logo=pandas&logoColor=white" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/TensorFlow-282054?style=flat&logo=TensorFlow&logoColor=white" /></a>&nbsp;  
+<a href=""><img src="https://img.shields.io/badge/Google Cloud-282054?style=flat&logo=google%20cloud&logoColor=white" /></a>&nbsp; 
+<a href=""><img src="https://img.shields.io/badge/Django-282054?style=flat&logo=django&logoColor=white" /></a>&nbsp; 
+
+
+
+## 🎥 CHECK OUR LAST ARTICLES
+- 📚 We currently reading [Material design](https://material.io/) 
+- 📝 Our partner sometimes write articles on [Medium](https://medium.com/)
+- 🎯 Hit us up for **machine learning** ,**android** ,**software architecture**, or **tech in general**.
+
 
 
 <img src = "https://github.com/gabeee28/gabeee28/blob/main/foot.png">
