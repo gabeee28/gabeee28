@@ -12,7 +12,7 @@
 
 
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> HI WE ARE [PAULONIA] 
-We match <b>Flutter</b> and our design skills 🧑‍💻 to deliver a quality app in no time 🚀.
+We match <b>Flutter</b> and our design skills 🧑‍💻 to deliver a quality app in no time 🚀. Hit us up for **machine learning** ,**android** ,**software architecture**, or **tech in general** 🎯.
 
 <b> Our development service on Flutter includes:</b>
 - 💻 <b> Applications development: </b> We create multiplatform applications with the best practices, to guarantee the success of your business.
@@ -142,7 +142,7 @@ SHAKA
 ## 🎥 CHECK OUR LAST ARTICLES
 - 📚 We currently reading [Material design](https://material.io/) 
 - 📝 Our partner sometimes write articles on [Medium](https://medium.com/)
-- 🎯 Hit us up for **machine learning** ,**android** ,**software architecture**, or **tech in general**.
+
 
 
 
