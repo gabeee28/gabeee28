@@ -139,7 +139,7 @@ SHAKA
 
 
 
-## 🎥 CHECK OUR LAST ARTICLES
+## 🗒 CHECK OUR LAST ARTICLES
 - 📚 We currently reading [Material design](https://material.io/) 
 - 📝 Our partner sometimes write articles on [Medium](https://medium.com/)
 
