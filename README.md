@@ -23,7 +23,7 @@ We match <b>Flutter</b> and our design skills 🧑‍💻 to deliver a quality a
 - 🛠 <b> Maintenance and support: </b> Facing any reported problem, we will provide you with advice and we will solve them.
  
  
- <b> Other services:</b>
+<b> Our development service of UX/UI includes:</b>
 - ⚡ <b>  Custom apps: </b> Design of user-centric and attractive interfaces for different platforms (mobile, tablet, web, desktop).
 - 🤗 <b> Improve experience: </b> Contribution of visual improvements or user experience within your app.
 - 🧩 <b> Design systems: </b> Kit of components, variants, resources and all the specifications of your app.
