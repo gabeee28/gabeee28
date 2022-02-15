@@ -1,4 +1,5 @@
-[<img src = "https://github.com/gabeee28/gabeee28/blob/main/Cover.png">][Paulonia]
+
+[<img src = "https://github.com/gabeee28/gabeee28/blob/main/Cover_Pau.png">][Paulonia]
 
 <p align="center">
 <a href="https://www.linkedin.com/company/paulonia/"><img src="https://img.shields.io/badge/linkedin-282054.svg?&style=flat&logo=linkedin" alt="LinkedIn" /></a>&nbsp;
@@ -67,7 +68,7 @@ VIABOBY
 </p>
 <p align="center">
 <a href = "https://apps.apple.com/pe/app/viaboby-b%C3%BAsqueda-de-mascotas/id1561662336?fbclid=IwAR0V31s2RjOVqwroqbgCdW4H06yVDLUCyv5hY-6ZauhVpJS6Mo5mhtcs5G0"><img src = "https://github.com/gabeee28/gabeee28/blob/main/appstore.png" width="40" height = "40"/></a> 
-<a href = "https://play.google.com/store/apps/details?id=com.paulonia.findmyboby"><img src = "https://github.com/gabeee28/gabeee28/blob/main/googleplay.png" width="40" height="40"/></a>
+<a href = "https://play.google.com/store/apps/details?id=com.paulonia.findmyboby"><img src = "https://github.com/gabeee28/gabeee28/blob/main/Playstore.png" width="40" height="40"/></a>
 <a href = "https://www.facebook.com/viabobyApp/"><img src = "https://github.com/gabeee28/gabeee28/blob/main/fb.png" width="40" height="40"/></a>
 <!---<a href = ""><img src = "https://github.com/gabeee28/gabeee28/blob/main/github.png" width="40" height="40"/></a>---> 
 </p>
@@ -100,7 +101,7 @@ SHAKA
 </p>
 <p align="center">
 <a href = "https://apps.apple.com/pe/app/shaka/id1573115285a"><img src = "https://github.com/gabeee28/gabeee28/blob/main/appstore.png" width="40" height = "40"/></a>
-<a href = "https://play.google.com/store/apps/details?id=dev.paulonia.shaka"><img src = "https://github.com/gabeee28/gabeee28/blob/main/googleplay.png" width="40" height="40"/></a>
+<a href = "https://play.google.com/store/apps/details?id=dev.paulonia.shaka"><img src = "https://github.com/gabeee28/gabeee28/blob/main/Playstore.png" width="40" height="40"/></a>
 <a href = "https://www.facebook.com/ShakaPokePeru"><img src = "https://github.com/gabeee28/gabeee28/blob/main/fb.png" width="40" height="40"/></a>
 </p>
 </td> 
@@ -115,6 +116,19 @@ SHAKA
 - 👨‍💻 Open Source Projects [Paulonia Cache Image](https://github.com/PauloniaAQP/paulonia_cache_image) repository.
 - 🐾 Would love to Collaborating on other Open Source Projects.
 - ⭐️ If you like my Open Source Projects 
+
+
+
+## ⬇ DOWNLOAD OUR OPENSOURCE FLUTTER PACKAGES
+<a href="https://pub.dev/packages/paulonia_cache_image"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_cache_image.png" /></a>&nbsp;
+<a href="https://pub.dev/packages/paulonia_document_service"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_document_service.png" /></a>&nbsp;
+<a href="https://pub.dev/packages/paulonia_error_service"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_error_service.png" /></a>&nbsp;
+<a href="https://pub.dev/packages/paulonia_remote_conf"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_remote_conf.png" /></a>&nbsp;
+<a href="https://pub.dev/packages/paulonia_repository"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_repository.png" /></a>&nbsp;
+<a href="https://pub.dev/packages/paulonia_utils"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_utils.png" /></a>&nbsp;
+
+
+
 
 
 
@@ -144,6 +158,16 @@ SHAKA
 - 📝 Our partner sometimes write articles on [Medium](https://medium.com/)
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 <img src = "https://github.com/gabeee28/gabeee28/blob/main/foot.png">
