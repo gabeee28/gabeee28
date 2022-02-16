@@ -111,7 +111,6 @@ SHAKA
 
 
 ## 💗 WE LOVE OPEN-SOURCE  
-<b> Take a look at some of our Open-Source projects :</b>
 - 🔍 Looking to Contribute on Open Source Projects related to Software Development.
 - 👨‍💻 Open Source Projects [Paulonia Cache Image](https://github.com/PauloniaAQP/paulonia_cache_image) repository.
 - 🐾 Would love to Collaborating on other Open Source Projects.
@@ -119,16 +118,13 @@ SHAKA
 
 
 
-## ⬇ DOWNLOAD OUR OPENSOURCE FLUTTER PACKAGES
+## 👀 TAKE A LOOK AT SOME OF OUR OPEN-SOURCE PROJECTS
 <a href="https://pub.dev/packages/paulonia_cache_image"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_cache_image.png" /></a>&nbsp;
 <a href="https://pub.dev/packages/paulonia_document_service"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_document_service.png" /></a>&nbsp;
 <a href="https://pub.dev/packages/paulonia_error_service"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_error_service.png" /></a>&nbsp;
 <a href="https://pub.dev/packages/paulonia_remote_conf"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_remote_conf.png" /></a>&nbsp;
 <a href="https://pub.dev/packages/paulonia_repository"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_repository.png" /></a>&nbsp;
 <a href="https://pub.dev/packages/paulonia_utils"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_utils.png" /></a>&nbsp;
-
-
-
 
 
 
@@ -158,22 +154,9 @@ SHAKA
 - 📝 Our partner sometimes write articles on [Medium](https://medium.com/)
 
 
+<img src = "https://github.com/gabeee28/gabeee28/blob/main/Footer.png">
  
  
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-<img src = "https://github.com/gabeee28/gabeee28/blob/main/foot.png">
-
-
-
 [PAULONIA]: https://paulonia.dev/
 
 <!---
